@@ -4,4 +4,4 @@ This is a copycat of [Rainy Mood](http://www.rainymood.com/), just for practicin
 
 If you have any problems, you can email me :)
 
-E-mail: jeeyeyeah@gmail.com
+E-mail: jiyecs@gmail.com
